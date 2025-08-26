@@ -11,4 +11,4 @@ fuente: https://www.seobility.net/es/wiki/Meta_Tags#content-que-son-las-meta-tag
 en la misma carpeta de la página web? ¿Y si está en una carpeta superior? 
 
 Respuesta: Si la imagen esta guardada en la misma carpeta de la pagina web entonces
-el navegador buscara el archivo directamente en la carpeta guardada <img src="imagen.jpg" alt="Imagen"> . Si esta en una carpeta superior se debe modificar el atributo src de la siguiente forma <img src= "../imagen.jpg" alt=Imagen> para indicar que la imagen esta mas arriba en la jerarquia de carpetas 
+el navegador buscara el archivo directamente en la carpeta guardada "<img src="imagen.jpg" alt="Imagen">" . Si esta en una carpeta superior se debe modificar el atributo src de la siguiente forma "<img src= "../imagen.jpg" alt=Imagen>" para indicar que la imagen esta mas arriba en la jerarquia de carpetas 
